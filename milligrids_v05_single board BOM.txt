@@ -6,7 +6,9 @@ C2   10n                     C0805                   C0805                   Cap
 C3   10n                     C0805                   C0805                   Capacitor 0805 Package                            
 C4   10n                     C0603                   C0603                   Capacitor 0603 Package                            
 C5   10n                     C0603                   C0603                   Capacitor 0603 Package                            
-C6   10n                     C0603                   C0603                   Capacitor 0603 Package                            
+C6   10n                     C0603                   C0603                   Capacitor 0603 Package 
+  For C4, C5, C6 0805 package is OK
+
 C7   22u                     CPOL-USC                PANASONIC_C             POLARIZED CAPACITOR, American symbol              
 C8   100n                    C0805                   C0805                   Capacitor 0805 Package                            
 C9   100n                    C0805                   C0805                   Capacitor 0805 Package                            
@@ -92,11 +94,11 @@ R31  100k                    R0603                   R0603                   Res
 R32  100k                    R0603                   R0603                   Resistor 0603 Package                             
 R33  100k                    R0603                   R0603                   Resistor 0603 Package                             
 R34  10k                     R0805                   R0805                   Resistor 0805 Package                             
-R35  150k                    R0805                   R0805                   Resistor 0805 Package                             
-R36  150k                    R0805                   R0805                   Resistor 0805 Package                             
-R37  150k                    R0805                   R0805                   Resistor 0805 Package                             
+R35  1k5                     R0805                   R0805                   Resistor 0805 Package                             
+R36  1k5                     R0805                   R0805                   Resistor 0805 Package                             
+R37  1k5                     R0805                   R0805                   Resistor 0805 Package                             
 R38  10k (Clock)             BOURNS-PTL30            BOURNS-PTL30                                                              
-R39  150k                    R0805                   R0805                   Resistor 0805 Package                             
+R39  1k5                     R0805                   R0805                   Resistor 0805 Package                             
 R40  10k (3)                 BOURNS-PTL30            BOURNS-PTL30                                                              
 R41  10k                     R0805                   R0805                   Resistor 0805 Package                             
 R42  1.0k                    R0805                   R0805                   Resistor 0805 Package                             
