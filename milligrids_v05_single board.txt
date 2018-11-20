@@ -1,0 +1,111 @@
+Partlist exported from C:/Users/Lasse/Documents/eagle/DIY FUN/DIY Grids/milligrids_v05_single board.sch at 20-11-2018 23:39:35
+
+Part Value                   Device                  Package                 Description                                       
+C1   10n                     C0805                   C0805                   Capacitor 0805 Package                            
+C2   10n                     C0805                   C0805                   Capacitor 0805 Package                            
+C3   10n                     C0805                   C0805                   Capacitor 0805 Package                            
+C4   10n                     C0603                   C0603                   Capacitor 0603 Package                            
+C5   10n                     C0603                   C0603                   Capacitor 0603 Package                            
+C6   10n                     C0603                   C0603                   Capacitor 0603 Package                            
+C7   22u                     CPOL-USC                PANASONIC_C             POLARIZED CAPACITOR, American symbol              
+C8   100n                    C0805                   C0805                   Capacitor 0805 Package                            
+C9   100n                    C0805                   C0805                   Capacitor 0805 Package                            
+C10  18p                     C0603                   C0603                   Capacitor 0603 Package                            
+C11  18p                     C0603                   C0603                   Capacitor 0603 Package                            
+C12  22u                     CPOL-USC                PANASONIC_C             POLARIZED CAPACITOR, American symbol              
+C13  100n                    C0805                   C0805                   Capacitor 0805 Package                            
+C14  100n                    C0805                   C0805                   Capacitor 0805 Package                            
+C15  100n                    C0805                   C0805                   Capacitor 0805 Package                            
+C16  100n                    C0805                   C0805                   Capacitor 0805 Package                            
+C17  100n                    C0805                   C0805                   Capacitor 0805 Package                            
+C18  100n                    C0805                   C0805                   Capacitor 0805 Package                            
+C19  100n                    C0805                   C0805                   Capacitor 0805 Package                            
+C20  100n                    C0805                   C0805                   Capacitor 0805 Package                            
+C21  100n                    C0805                   C0805                   Capacitor 0805 Package                            
+C22  470n                    C0805                   C0805                   Capacitor 0805 Package                            
+D1   1N5819HW                DIODE-SOD123            SOD123                  DIODE                                             
+IC1  MCP6001T-E/OT           MCP6001T-E/OT           SOT23-5                                                                   
+IC2  MCP6001T-E/OT           MCP6001T-E/OT           SOT23-5                                                                   
+IC3  MCP6001T-E/OT           MCP6001T-E/OT           SOT23-5                                                                   
+IC4  MCP6001T-E/OT           MCP6001T-E/OT           SOT23-5                                                                   
+IC5  MCP6001T-E/OT           MCP6001T-E/OT           SOT23-5                                                                   
+IC6  MCP6001T-E/OT           MCP6001T-E/OT           SOT23-5                                                                   
+IC7  LM1117-5.0              REG1117                 SOT223                  800mA and 1A Low Dropout (LDO) Positive Regulator 
+IC8  74HC595D                74HC595D                SO16                    8-bit SHIFT REGISTER, output latch                
+IC9  LM4040 5.0V             LM4041C12DBZ            DBZ_R-PDSO-G3           PRECISION MICROPOWER SHUNT VOLTAGE REFERENCE      
+J1   WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN)                                                   
+J2   WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN)                                                   
+J3   WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN)                                                   
+J4   WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN)                                                   
+J5   WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN)                                                   
+J6   WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN)                                                   
+J7   WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN)                                                   
+J8   WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN)                                                   
+J9   52601-X10-8TLF          52601-X10-8TLF          52601-(X)10-8TLF                                                          
+J10  54202-S0803LF           54202-S0803LF           54202-S0803LF                                                             
+J11  WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN)                                                   
+J12  WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN)                                                   
+J13  WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN)                                                   
+J14  WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN)                                                   
+J15  WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN)                                                   
+J16  WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN) WQP-PJ301M6(THONKICONN)                                                   
+J17  54202-S0803LF           54202-S0803LF           54202-S0803LF                                                             
+JP2  FIDUCIAL1X2             FIDUCIAL1X2             FIDUCIAL-1X2            Fiducial Alignment Points                         
+JP3  FIDUCIAL1X2             FIDUCIAL1X2             FIDUCIAL-1X2            Fiducial Alignment Points                         
+JP4  FIDUCIAL1X2             FIDUCIAL1X2             FIDUCIAL-1X2            Fiducial Alignment Points                         
+JP5  FIDUCIAL1X2             FIDUCIAL1X2             FIDUCIAL-1X2            Fiducial Alignment Points                         
+L1                           WE-CBF_0603             0603                    SMD EMI Suppression Ferrite Beads                 
+Q1   MMBT3904LT1G            MMBT3904LT1G            SOT23-3                                                                   
+Q2   MMBT3904LT1G            MMBT3904LT1G            SOT23-3                                                                   
+Q3   20MHz                   CRYSTALHC49UP           HC49UP                  CRYSTAL                                           
+R1   10k (x)                 SONGHUEI-RK0914         SONGHUEI-RK0914         SONG HUEI RK0914 9mm POTENTIOMETER                
+R2   10k (y)                 SONGHUEI-RK0914         SONGHUEI-RK0914         SONG HUEI RK0914 9mm POTENTIOMETER                
+R3   10k (chaos)             SONGHUEI-RK0914         SONGHUEI-RK0914         SONG HUEI RK0914 9mm POTENTIOMETER                
+R4   100k                    R0603                   R0603                   Resistor 0603 Package                             
+R5   1M                      R0603                   R0603                   Resistor 0603 Package                             
+R6   100k                    R0603                   R0603                   Resistor 0603 Package                             
+R7   100k                    R0603                   R0603                   Resistor 0603 Package                             
+R8   100k                    R0603                   R0603                   Resistor 0603 Package                             
+R9   100k                    R0603                   R0603                   Resistor 0603 Package                             
+R10  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R11  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R12  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R13  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R14  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R15  10k                     R0805                   R0805                   Resistor 0805 Package                             
+R16  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R17  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R18  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R19  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R20  1M                      R0603                   R0603                   Resistor 0603 Package                             
+R21  10k                     R0805                   R0805                   Resistor 0805 Package                             
+R22  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R23  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R24  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R25  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R26  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R27  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R28  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R29  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R30  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R31  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R32  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R33  100k                    R0603                   R0603                   Resistor 0603 Package                             
+R34  10k                     R0805                   R0805                   Resistor 0805 Package                             
+R35  150k                    R0805                   R0805                   Resistor 0805 Package                             
+R36  150k                    R0805                   R0805                   Resistor 0805 Package                             
+R37  150k                    R0805                   R0805                   Resistor 0805 Package                             
+R38  10k (Clock)             BOURNS-PTL30            BOURNS-PTL30                                                              
+R39  150k                    R0805                   R0805                   Resistor 0805 Package                             
+R40  10k (3)                 BOURNS-PTL30            BOURNS-PTL30                                                              
+R41  10k                     R0805                   R0805                   Resistor 0805 Package                             
+R42  1.0k                    R0805                   R0805                   Resistor 0805 Package                             
+R43  1.0k                    R0805                   R0805                   Resistor 0805 Package                             
+R44  1.0k                    R0805                   R0805                   Resistor 0805 Package                             
+R45  10k (2)                 BOURNS-PTL30            BOURNS-PTL30                                                              
+R46  1.0k                    R0805                   R0805                   Resistor 0805 Package                             
+R47  1.0k                    R0805                   R0805                   Resistor 0805 Package                             
+R48  1.0k                    R0805                   R0805                   Resistor 0805 Package                             
+R49  10k (1)                 BOURNS-PTL30            BOURNS-PTL30                                                              
+SW1  E-SWITCH-TL1105SPSP     E-SWITCH-TL1105SPSP     E-SWITCH-TL1105SP       E-SWITCH                                          
+U1   ATMEGA328P-AU           ATMEGA168               TQFP32-08                                                                 
